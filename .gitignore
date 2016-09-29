@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Discord bot's log files
+*.log
+
+# Emacs weirdness
+*~
+*# 
+
+# The credentials
+/config/
+
 # C extensions
 *.so
 
